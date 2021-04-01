@@ -1,0 +1,26 @@
+{
+  "name": "contact-form-nodejs",
+  "version": "1.0.0",
+  "description": "Contact form Node.js",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.5.0",
+    "nodemailer-mailgun-transport": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpwit/contact-form-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpwit/contact-form-nodejs/issues"
+  },
+  "homepage": "https://github.com/dpwit/contact-form-nodejs#readme"
+}
